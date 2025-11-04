@@ -10,9 +10,7 @@
 ---
 
 ### 🌷 About Me
-- 🎓 Student at **Politeknik Negeri Banyuwangi**, majoring in **Informatics**
 - 💅 Currently developing **Aretha Beauty (ABee)** – Web Reservation System for Beauty Services
-- 🍦 Co-developing **Soylicious** – Tempe-based ice cream for PKM-K entrepreneurship program
 - 💡 Interested in **Laravel**, **UI/UX**, and **Web Application Design**
 - 🧠 Always learning something new in the world of tech
 - 🌸 Motto: *“Keep learning, keep creating, and never stop improving.”*
@@ -30,7 +28,6 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 💅 **Aretha Beauty (ABee)** | Web-based beauty service reservation system with membership, promo, and booking features. | Laravel, MySQL, Blade |
-| 🍦 **Soylicious** | Tempe-based ice cream brand for PKM-K 2025, focusing on healthy innovation. | Design, Branding, Product Concept |
 | 💰 **Kasir Pintar** | Simple web-based POS app built as a semester project. | Laravel, MySQL |
 
 ---
