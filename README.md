@@ -50,9 +50,9 @@
 
 ### 💌 Connect With Me
 <p align="center">
-  <a href="mailto:nabila8n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/nabilaulfaa"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/nabilaulfaa"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nabilaulfaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
