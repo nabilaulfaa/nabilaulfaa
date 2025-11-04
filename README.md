@@ -1,7 +1,7 @@
 <!-- 🌸 Nabila Ulfa - GitHub Profile README -->
 
 <p align="center">
-  <img src="https://i.ibb.co/7dJ710nN/gmbr1.png" alt="Nabila Ulfa Banner" width="50%">
+  <img src="https://i.ibb.co/7dJ710nN/gmbr1.png" alt="Nabila Ulfa Banner" width="30%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Nabila Ulfa</h1>
