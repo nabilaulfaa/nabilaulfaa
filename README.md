@@ -1,7 +1,7 @@
 <!-- 🌸 Nabila Ulfa - GitHub Profile README -->
 
 <p align="center">
-  <img src="https://anzalweb.ir/wp-content/uploads/2021/03/how-to-download-upload-from-github.jpg" alt="GitHub Banner" width="100%">
+  <img src="https://ibb.co.com/TM8VpQfL" alt="GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Nabila Ulfa</h1>
