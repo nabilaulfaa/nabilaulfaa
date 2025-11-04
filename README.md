@@ -1,7 +1,7 @@
 <!-- 🌸 Nabila Ulfa - GitHub Profile README -->
 
 <p align="center">
-  <img src="[https://i.ibb.co/FbWRs6z/banner-github.png](https://img.freepik.com/premium-photo/abstract-background-steppe-with-spike-captivating-banner-with-mesmerizing-illustration-gold_198565-7476.jpg)" alt="Nabila Ulfa Banner" width="100%">
+  <img src="(https://img.freepik.com/premium-photo/abstract-background-steppe-with-spike-captivating-banner-with-mesmerizing-illustration-gold_198565-7476.jpg)" alt="Nabila Ulfa Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Nabila Ulfa</h1>
