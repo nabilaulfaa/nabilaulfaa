@@ -97,14 +97,6 @@
   <a href="https://instagram.com/nabiiulfa"><img src="https://img.shields.io/badge/Instagram-FF69B4?logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-
-<h2 align="center" style="font-family:'Poppins', sans-serif; color:#FF69B4;">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nabilaulfaa/nabilaulfaa/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabilaulfaa&style=for-the-badge&color=FF69B4" alt="Profile views"/>
 </p>
