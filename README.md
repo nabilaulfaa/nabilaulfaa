@@ -61,26 +61,6 @@
   </table>
 </p>
 
-
-<h2 align="center" style="font-family:'Poppins', sans-serif; color:#FF69B4;">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilaulfaa&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaulfaa&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nabilaulfaa&theme=rose_pine&hide_border=true" height="165"/>
-</p>
-
-
-<h2 align="center" style="font-family:'Poppins', sans-serif; color:#FF69B4;">🏆 Achievements & Activity</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilaulfaa&theme=rose_pine&no-frame=true&margin-w=10" alt="Trophies"/>
-</p>
-
-
 <h2 align="center" style="font-family:'Poppins', sans-serif; color:#FF69B4;">💬 Quote of the Day</h2>
 
 <p align="center" style="font-family:'Dancing Script', cursive; font-size:20px; color:#000;">
@@ -91,9 +71,8 @@
 <h2 align="center" style="font-family:'Poppins', sans-serif; color:#FF69B4;">💌 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:nabila8n@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF5C5C?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:naabiilaauulfaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF5C5C?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/nabilaulfaa"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://instagram.com/nabiiulfa"><img src="https://img.shields.io/badge/Instagram-FF69B4?logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </p>
 
