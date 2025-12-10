@@ -49,12 +49,12 @@
       <th>🧰 Tech Stack</th>
     </tr>
     <tr>
-      <td><b>💅 Aretha Beauty (ABee)</b></td>
+      <td><b>Aretha Beauty (ABee)</b></td>
       <td>Web reservation system for beauty services with booking, promo, and membership.</td>
       <td>Laravel, MySQL, Blade</td>
     </tr>
     <tr>
-      <td><b>💰 Kasir Pintar</b></td>
+      <td><b>Kasir Pintar</b></td>
       <td>Web-based Point of Sales (POS) app built for academic project.</td>
       <td>Laravel, MySQL</td>
     </tr>
